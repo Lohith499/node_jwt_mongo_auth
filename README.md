@@ -14,8 +14,9 @@
 
 ## Libraries used
 
-1. Mongoose - to connect and do crud operations on MongoDB collection
-2. Jsonwebtoken - to maintain authentication 
-3. Body-parser - to extract data from request
-4. Bcrypt - to encrypt and decrypt the password
-5. Express - Framework to develop APIs 
+1. mongoose - to connect and do crud operations on MongoDB collection
+2. jsonwebtoken - to maintain authentication 
+3. body-parser - to extract data from request
+4. bcrypt - to encrypt and decrypt the password
+5. express - Framework to develop APIs 
+6. dotenv - helps us extracting vcalues from .env file
